@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-  cout << "hahaha" << endl;
+  cout << "hahaha2333" << endl;
+  cout << "修改了内容" << endl;
   return 0;
 }
 
